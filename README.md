@@ -5,7 +5,7 @@
 
 :computer: I'm Developer!
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything from front-end and back-end.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job
 
