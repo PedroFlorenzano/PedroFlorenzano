@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm PEDRO HENRIQUE DAMASO FLORENZANO GONÇALVES</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 📫 How to reach me **pedroflorezano.dev@gmail.com**
+📫 How to reach me **pedroflorezano.dev@gmail.com**
 
-:computer: I'm Front-End Developer!
+:computer: I'm Developer!
 
 :books: I’m currently learning everything.
 
