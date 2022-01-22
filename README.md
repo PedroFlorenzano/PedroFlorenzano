@@ -7,7 +7,7 @@
 
 :books: I’m currently learning everything from front-end and back-end.
 
-:outbox_tray: 2022 Goals: create a new project and learn C# and SQL.
+:outbox_tray: 2022 Goals: create a new project, learn C# and SQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
