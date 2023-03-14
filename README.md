@@ -5,9 +5,9 @@
 
 :computer: I'm Developer!
 
-:books: I’m currently learning everything from front-end and back-end.
+:books: I’m currently learning everything from back-end.
 
-:outbox_tray: 2022 Goals: create a new project, create websites and learn a back-end language.
+:outbox_tray: 2023 Goals: learn more about C#.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
